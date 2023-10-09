@@ -1,0 +1,27 @@
+# ---------
+# CONSTANTS
+# ---------
+
+# --- PIXELS ---
+
+WIDTH = 400
+HEIGHT = 400
+
+ROWS = 3
+COLS = 3
+SQSIZE = WIDTH // COLS
+
+LINE_WIDTH = 15
+CIRC_WIDTH = 15
+CROSS_WIDTH = 20
+
+RADIUS = SQSIZE // 3
+
+OFFSET = 50
+
+# --- COLORS ---
+
+BG_COLOR = (20, 189, 172)
+LINE_COLOR = (13, 161, 146)
+CIRC_COLOR = (242, 235, 211)
+CROSS_COLOR = (84, 84, 84)

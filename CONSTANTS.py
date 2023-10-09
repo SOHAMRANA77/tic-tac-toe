@@ -1,0 +1,19 @@
+# Define game window dimensions and other constants
+WIDTH = 400
+HEIGHT = 400
+LINE_WIDTH = 15
+BOARD_ROW = 3
+BOARD_COLS = 3
+SQUARE_SIZE = WIDTH // BOARD_COLS
+CIRCLE_RADIUS = SQUARE_SIZE // 3
+CIRCLE_WIDTH = 15
+CROSS_WIDTH = 25
+SPACE = SQUARE_SIZE // 4
+
+# Define colors
+LINE_COLOR = (13, 161, 146)
+# LINE_COLOR = (23, 170, 156)
+BG_COLOR = (20, 189, 172)
+X_COLOR = (84, 84, 84)
+C_COLOR = (242, 235, 211)
+
