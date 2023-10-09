@@ -36,8 +36,8 @@ Player vs Player (PvP): Two human players take turns to play the game.\
 Player vs AI (PvAI): A human player plays against the AI.
 
 ## AI Levels
->The AI comes with two levels of difficulty:
->Random AI (Level 0): The AI makes random moves on the board.
+>The AI comes with two levels of difficulty:\
+>Random AI (Level 0): The AI makes random moves on the board.\
 >Minimax AI (Level 1): The AI uses the minimax algorithm to choose the best moves.
 
 ## AI Algorithm: Minimax
